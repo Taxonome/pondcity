@@ -1,2 +1,2 @@
 # pondcity
-pondcity.org
+pondcity
